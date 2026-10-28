@@ -1,0 +1,3 @@
+[submodule "HYDRA"]
+	path = HYDRA
+	url = https://github.com/thedatumorg/HYDRA.git

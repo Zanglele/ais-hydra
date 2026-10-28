@@ -1,0 +1,15 @@
+.venv/
+.tools/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.log
+data/svalbard/raw/
+data/svalbard/processed/
+outputs/svalbard/
+data/svalbard/results/
+data/svalbard/reports/
+data/stocks/raw/
+data/stocks/processed/
+data/stocks/results/
